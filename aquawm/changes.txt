@@ -1,0 +1,7 @@
+Added:
+1. Four desktop themes.
+2. Config for setting up WM
+3. On-the-fly configuration reload system
+4. Command interface
+5. Multithreading
+6. Technical improvements and architectural changes
