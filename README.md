@@ -20,4 +20,3 @@ Or simply run it via startx:
     exec aquawm
  
  
-# Newest changes in [changes.txt](aquawm/changes.txt)
